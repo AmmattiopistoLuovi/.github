@@ -1,10 +1,10 @@
-### 👋 Tervetuloa Ammattiopisto Luovin Github- organisaatioon ::<br>Welcome to the Github- organisation of Luovi Vocational Institute
+### 👋 Welcome to the Github- organisation of Luovi Vocational Institute
 
-Githubissa Luovia edustaa pääasiassa ohjelmistokehityksen opiskelijat. Luovin virallinen sivusto löytyy osoitteesta  [www.luovi.fi](https://www.luovi.fi)
+On GitHub, Luovi is mainly represented by software development students.  The official Luovi website can be found at  [www.luovi.fi](https://www.luovi.fi)
 
-[Lisää ohjelmistokehityksen opinnoista](ohjelmistokehitys.md)
+[More about the software development studies](ohjelmistokehitys.md)
 
-Opiskelijoiden projekteja :: Projects made by our students
+Projects made by our students
 
 * [Text-Dungeon](https://github.com/QuatroXD/Text-Dungeon) by [QuatroXD](https://github.com/QuatroXD)
 * [recipe-list-py](https://github.com/Vallu368/recipe-list-py) by [Vallu368](https://github.com/Vallu368)
