@@ -1,5 +1,5 @@
 ### 👋 Welcome to the Github- organisation of Luovi Vocational Institute ::<br>Tervetuloa Ammattiopisto Luovin Github- organisaatioon
-[(in Finnish)](readme.md)
+[(in Finnish)](README.md)
 
 * The official web- page of Luovi: www.luovi.fi
 * Luovi in [Opintopolku](https://opintopolku.fi/konfo/fi/oppilaitos/1.2.246.562.10.33517818648)
