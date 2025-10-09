@@ -1,5 +1,5 @@
 ### 👋 Tervetuloa Ammattiopisto Luovin Github- organisaatioon ::<br>Welcome to the Github- organisation of Luovi Vocational Institute
-[(in English)](readme_en.md)
+[(in English)](README_EN.md)
 
 * Luovin virallinen sivusto löytyy osoitteesta  [www.luovi.fi](https://www.luovi.fi)
 * Tarkempaa tietoa [tieto- ja viestintätekniikan perustutkinnosta](https://opintopolku.fi/konfo/fi/toteutus/1.2.246.562.17.00000000000000004332)
