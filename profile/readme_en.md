@@ -7,5 +7,6 @@
 * Our goal is to become [software developers](https://luovi.fi/koulutukset/ohjelmistokehittaja/)
 * [Projects made by our students](https://github.com/AmmattiopistoLuovi/.github/blob/main/profile/projects.md)
 
-👥 Contact information: The main responsibility for teaching is held by **@anpert**, 📧 antti - dot - perttunen @luovi.fi  
-🌐 [www.luovi.fi](https://www.luovi.fi)
+👥 Contact information: 
+* The main responsibility for teaching is held by **@anpert**, 📧 antti - dot - perttunen @luovi.fi  
+* 🌐 [www.luovi.fi](https://www.luovi.fi)
