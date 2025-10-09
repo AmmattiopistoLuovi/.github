@@ -7,6 +7,5 @@
 * [Opiskelijoidemme projekteja GitHubissa](projects.md)
 
 👥 Yhteystiedot
-- Opetuksesta päävastuussa on **@anpert**
-📧 antti - piste - perttunen @luovi.fi  
-🌐 [www.luovi.fi](https://www.luovi.fi)
+* Opetuksesta päävastuussa on **@anpert** 📧 antti - piste - perttunen @luovi.fi  
+* 🌐 [www.luovi.fi](https://www.luovi.fi)
