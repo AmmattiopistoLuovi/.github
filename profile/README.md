@@ -4,4 +4,4 @@ Githubissa Luovia edustaa pääasiassa ohjelmistokehityksen opiskelijat. Luovin 
 
 [Lisää ohjelmistokehityksen opinnoista](ohjelmistokehitys.md)
 
-Opiskelijoidemme projekteja GitHubissa
+[Opiskelijoidemme projekteja GitHubissa](projects.md)
