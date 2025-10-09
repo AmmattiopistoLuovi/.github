@@ -1,5 +1,5 @@
 ### Welcome to the Github- organisation of Luovi Vocational Institute
-[(suomeksi)](readme.md)
+[(in English)](readme.md)
 
 The official web- page of Luovi: www.luovi.fi
 
