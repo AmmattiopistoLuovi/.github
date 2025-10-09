@@ -1,0 +1,16 @@
+Opiskelijoiden projekteja :: Projects made by our students
+
+* [Text-Dungeon](https://github.com/QuatroXD/Text-Dungeon) by [QuatroXD](https://github.com/QuatroXD)
+* [recipe-list-py](https://github.com/Vallu368/recipe-list-py) by [Vallu368](https://github.com/Vallu368)
+* [liminal-paws](https://github.com/Vallu368/liminal-paws) by [Vallu368](https://github.com/Vallu368)
+* [Dropbox-Mediaplayer](https://github.com/Vallu368/Dropbox-Mediaplayer) by [Vallu368](https://github.com/Vallu368)
+* [infoscreen_mediaplayer](https://github.com/Vallu368/infoscreen_mediaplayer) by [Vallu368](https://github.com/Vallu368)
+* [rfidreader](https://github.com/Vallu368/rfidreader) by [Vallu368](https://github.com/Vallu368)
+* [ldjam53](https://github.com/Vallu368/ldjam53) by [Vallu368](https://github.com/Vallu368)
+* [haamupeli](https://github.com/Vallu368/haamupeli) by [Vallu368](https://github.com/Vallu368)
+* [gamejam](https://github.com/Vallu368/gamejam) by [Vallu368](https://github.com/Vallu368)
+* [kuvauspeli](https://github.com/Vallu368/kuvauspeli) by [Vallu368](https://github.com/Vallu368)
+* [spooky-fishing](https://github.com/Vallu368/spooky-fishing) by [Vallu368](https://github.com/Vallu368)
+* [WwebStore](https://github.com/Eggeater48/webStore) by [Eggeater48](https://github.com/Eggeater48/gitCV)
+* [fullStackOpen](https://github.com/Eggeater48/fullStackOpen) by [Eggeater48](https://github.com/Eggeater48/gitCV)
+* [fullStackPB](https://github.com/Eggeater48/fullStackPB) by [Eggeater48](https://github.com/Eggeater48/gitCV)
