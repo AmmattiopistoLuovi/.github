@@ -1,4 +1,4 @@
-### Welcome to the Github- organisation of Luovi Vocational Institute
+### 👋 Welcome to the Github- organisation of Luovi Vocational Institute ::<br>Tervetuloa Ammattiopisto Luovin Github- organisaatioon
 [(in Finnish)](readme.md)
 
 The official web- page of Luovi: www.luovi.fi
